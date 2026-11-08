@@ -37,7 +37,7 @@ Soy cofundador y Data Scientist / Product Owner en **LimpIAr**, una startup orie
 * **Descripción:** Solución B2G / GovTech para la detección temprana de residuos urbanos a cielo abierto mediante imágenes de drones de alta resolución.
 * **Metodología:** Pipeline end-to-end que incluye slicing con Sliding Window, Data Augmentation, arquitectura de segmentación semántica y optimización de métricas de detección (IoU, Precision, Recall y F1-Score).
 * **Nota confidencial:** *El código fuente del modelo y pesos entrenados se mantienen bajo secreto técnico comercial. El repositorio contiene el resumen metodológico, arquitectura del sistema y métricas de desempeño.*
-* 🔗 `[Ver Caso de Estudio Técnico](./limpiar-case-study)`
+* 🔗 `https://github.com/santiagomanuelrg-wq/limpiar-case-study`
 
 ---
 
@@ -53,7 +53,7 @@ Soy cofundador y Data Scientist / Product Owner en **LimpIAr**, una startup orie
 * **Stack:** `Python`, `GeoPandas`, `Shapely`, `Folium`, `ETL Pipelines`
 * **Descripción:** Pipeline de analítica espacial para modelar la distribución de 242 microbasurales sobre más de 157.000 parcelas catastrales en San Miguel de Tucumán.
 * **Impacto:** Análisis de buffer y proximidad que demostró que el 30,17% de los basurales se concentran en corredores viales y ferroviarios críticos. Visualización interactiva en Folium.
-* 🔗 `[Ver Repositorio y Código](./geospatial-waste-analysis)`
+* 🔗 `https://github.com/santiagomanuelrg-wq/geospatial-waste-analysis`
 
 ---
 
@@ -61,7 +61,7 @@ Soy cofundador y Data Scientist / Product Owner en **LimpIAr**, una startup orie
 * **Stack:** `Power BI`, `DAX`, `Power Query`, `EDA con Python`
 * **Descripción:** Dashboard interactivo para análisis de precios, demanda y segmentación territorial de propiedades turísticas en Ciudad de México.
 * **Enfoque de Negocio:** Modelado de datos relacional en Power BI, cálculo de métricas avanzadas en DAX y visualización de clústeres de precios altos por alcaldía y tipo de propiedad.
-* 🔗 `[Ver Dashboard y Capturas](./powerbi-airbnb-mexico)`
+* 🔗 `https://github.com/santiagomanuelrg-wq/airbnb-mexico-powerbi`
 
 ---
 
@@ -69,7 +69,7 @@ Soy cofundador y Data Scientist / Product Owner en **LimpIAr**, una startup orie
 * **Stack:** `Looker / Looker Studio`, `SQL`, `Business Intelligence`
 * **Descripción:** Tablero integral de gestión comercial y logística utilizando el dataset público de Superstore.
 * **Métricas Clave:** Análisis de margen operativo, tasa de devoluciones por región, ventas por categoría de producto y comportamiento histórico mensual.
-* 🔗 `[Ver Reporte Interactivo](./looker-superstore-bi)`
+* 🔗 `https://github.com/santiagomanuelrg-wq/looker-superstore-bi`
 
 ---
 
